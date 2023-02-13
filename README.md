@@ -1,6 +1,6 @@
 - 👋 Hi, my name is anas
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning html/css/python
+- 🌱 I’m currently learning html/css/javascript
 - 📫 How to reach me facebook.com/samsul378
 
 <!---
